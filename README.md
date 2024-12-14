@@ -5,8 +5,8 @@ I’m a Ph.D. student at VISTEC, Thailand, specializing in Natural Language Proc
 ## Key Projects  
 - **Thai Nested NER Corpus**  
   Published at ACL 2022  
-- **Few-shot NER with Large Language Models**  
-  Enhancing NER using few-shot learning (Ongoing)  
+- **Enhancing Few-shot NER with Large Language Models**  
+   (Ongoing)  
 - **Bilingual Finance NER Dataset**  
   Cross-lingual dataset for Thai/English (Ongoing)
 
