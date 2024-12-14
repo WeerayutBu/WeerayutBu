@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! 👋 I'm Weerayut Buaphet (วีรยุทธ บัวเพชร)
 
-<!--
-**WeerayutBu/WeerayutBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Ph.D. student at VISTEC, Thailand, specializing in Natural Language Processing (NLP). My research focuses on Named Entity Recognition (NER) and Representation Learning, particularly for low-resource languages like Thai. I’m passionate about tackling challenges in multilingual and domain-specific NER, few-shot learning, and creating datasets for real-world applications such as finance.
 
-Here are some ideas to get you started:
+## Key Projects  
+- **Thai Nested NER Corpus**  
+  Published at ACL 2022  
+- **Few-shot NER with Large Language Models**  
+  Enhancing NER using few-shot learning (Ongoing)  
+- **Bilingual Finance NER Dataset**  
+  Cross-lingual dataset for Thai/English (Ongoing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact  
+🌐 [Website](https://weerayutbu.github.io/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/weerayutbu/)  
+📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
+📧 weerayut.b_s20@vistec.ac.th  
