@@ -5,8 +5,10 @@ I’m a Ph.D. student at VISTEC, Thailand, specializing in Natural Language Proc
 ## Key Projects  
 - **Thai Nested NER Corpus**  
   Published at ACL 2022  
-- **Enhancing Few-shot NER with Large Language Models**  
-   (Ongoing)  
+- **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition.s**  
+  Published at IEEE Access
+- **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages.**
+  Published at TALLIP
 - **Bilingual Finance NER Dataset**  
   Cross-lingual dataset for Thai/English (Ongoing)
 
