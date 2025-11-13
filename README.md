@@ -3,12 +3,10 @@
 I’m a Ph.D. student at VISTEC, Thailand, specializing in Natural Language Processing (NLP). My research focuses on Named Entity Recognition (NER) and Representation Learning, particularly for low-resource languages like Thai. I’m passionate about tackling challenges in multilingual and domain-specific NER, few-shot learning, and creating datasets for real-world applications such as finance.
 
 ## Key Projects  
-- **Thai Nested NER Corpus**  
-  Published at ACL 2022  
-- **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition.s**  
-  Published at IEEE Access
-- **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages.**
-  Published at TALLIP
+- **Thai Nested NER Corpus** (Published in ACL 2022)
+  
+- **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition** (Published in IEEE Access)
+- **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Published in TALLIP)
 - **Bilingual Finance NER Dataset**  
   Cross-lingual dataset for Thai/English (Ongoing)
 
