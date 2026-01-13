@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Weerayut Buaphet (วีรยุทธ บัวเพชร)
 
-I'm a five-year Ph.D. scholarship student in the Natural Language Processing and Representation Learning Lab (NRL) at VISTEC, Thailand, supervised by Associate Professor Prof. Dr. Sarana.
+I’m a Ph.D. student in the Natural Language Processing and Representation Learning Lab (NRL) at VISTEC, Thailand, supervised by Associate Professor Prof. Dr. Sarana Nutanong and co-advised by Associate Professor. Prof. Dr. Attapol Rutherford.
 
 PhD Thesis: Resource-Constrained Named Entity Recognition — Contributed a Thai-language dataset for fine-grained nested NER and a bilingual financial NER dataset for the stock market; analyzed the generalization of encoder-based and LLM-based NER models to unseen entity types and new domains; and addressed multilingual text normalization challenges in informal language.
 
