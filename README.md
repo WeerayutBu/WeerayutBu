@@ -1,10 +1,13 @@
 # Hi! 👋 I'm Weerayut Buaphet (วีรยุทธ บัวเพชร)
 
-I’m a Ph.D. student at VISTEC, Thailand, specializing in Natural Language Processing (NLP). My research focuses on Named Entity Recognition (NER) and Representation Learning, particularly for low-resource languages like Thai. I’m passionate about tackling challenges in multilingual and domain-specific NER, few-shot learning, and creating datasets for real-world applications such as finance.
+I'm a five-year Ph.D. scholarship student in the Natural Language Processing and Representation Learning Lab (NRL) at VISTEC, Thailand, supervised by Associate Professor Prof. Dr. Sarana.
+
+\textbf{PhD Thesis:} Resource-Constrained Named Entity Recognition — Contributed a Thai-language dataset for fine-grained nested NER and a bilingual financial NER dataset for the stock market; analyzed the generalization of encoder-based and LLM-based NER models to unseen entity types and new domains; and addressed multilingual text normalization challenges in informal language.
+
+Currently, I am focused on developing and evaluating an LLM-based retrieval-augmented generation (RAG) system for the medical domain, using supervised fine-tuning (SFT) and reinforcement learning methods (e.g., DPO, GRPO) to train models for multi-turn medical question answering \href{https://huggingface.co/ThaiLLM}{(ThaiLLM)}.
 
 ## Key Projects  
 - **Thai Nested NER Corpus** (Published in ACL 2022)
-  
 - **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition** (Published in IEEE Access)
 - **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Published in TALLIP)
 - **Bilingual Finance NER Dataset**  
