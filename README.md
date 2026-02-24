@@ -19,4 +19,4 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 📧 weerayut.b_s20@vistec.ac.th  
 
 ## Demo:
-- ** [Common commands](https://github.com/WeerayutBu/Common-commands)
+- [Common commands](https://github.com/WeerayutBu/Common-commands)
