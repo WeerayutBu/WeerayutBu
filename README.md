@@ -17,3 +17,6 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 🔗 [LinkedIn](https://www.linkedin.com/in/weerayutbu/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
 📧 weerayut.b_s20@vistec.ac.th  
+
+## Demo:
+- ** [Common commands](https://github.com/WeerayutBu/Common-commands)
