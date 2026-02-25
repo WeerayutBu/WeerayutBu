@@ -22,3 +22,4 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - [Common commands](https://github.com/WeerayutBu/Common-commands)
 - [Git](https://github.com/WeerayutBu/Git)
 - [Docker](https://github.com/WeerayutBu/Docker)
+- [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
