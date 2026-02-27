@@ -18,11 +18,14 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
 📧 weerayut.b_s20@vistec.ac.th  
 
+**Datasets**
+- [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner)
+
+**RAG system**
+- [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
+
 ## Others:
 - [Common commands](https://github.com/WeerayutBu/Common-commands)
 - [Git](https://github.com/WeerayutBu/Git)
 - [Docker](https://github.com/WeerayutBu/Docker)
 - [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
-
-**RAG system**
-- [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
