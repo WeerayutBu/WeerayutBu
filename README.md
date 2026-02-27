@@ -24,6 +24,7 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner), [Preprocessing](https://github.com/WeerayutBu/cmdf-dataset)
 - [MultiLexNorm++](https://huggingface.co/datasets/weerayut/multilexnorm2026-full-pub), [Preprocessing](https://github.com/WeerayutBu/MultiLexNorm2.git)
 - [Thai-NNER](#), [Preprocessing](https://github.com/WeerayutBu/Preprocessing-Thai-NNER.git)
+- [ThaiLLM-Information-Query](https://huggingface.co/datasets/weerayut/iq-rag-lastturn), [Preprocessing](https://github.com/WeerayutBu/ChatTemplateRAG)
 ## ​RAG system
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
 
