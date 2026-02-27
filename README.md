@@ -12,12 +12,6 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Accepted in TALLIP)
 - **Bilingual Finance NER Dataset**: Cross-lingual dataset for Thai/English (Ongoing)
 
-## Contact  
-🌐 [Website](https://weerayutbu.github.io/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/weerayutbu/)  
-📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
-📧 weerayut.b_s20@vistec.ac.th  
-
 **Datasets**
 - [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner), [Preprocessing](https://github.com/WeerayutBu/cmdf-dataset)
 - [MultiLexNorm++](https://huggingface.co/datasets/weerayut/multilexnorm2026-full-pub), [Preprocessing](https://github.com/WeerayutBu/MultiLexNorm2.git)
@@ -30,3 +24,9 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - [Git](https://github.com/WeerayutBu/Git)
 - [Docker](https://github.com/WeerayutBu/Docker)
 - [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
+
+## Contact  
+🌐 [Website](https://weerayutbu.github.io/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/weerayutbu/)  
+📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
+📧 weerayut.b_s20@vistec.ac.th  
