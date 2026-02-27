@@ -7,7 +7,7 @@ PhD Thesis: Resource-Constrained Named Entity Recognition — Contributed a Thai
 Currently, I am focused on developing and evaluating an LLM-based retrieval-augmented generation (RAG) system for the medical domain, using supervised fine-tuning (SFT) and reinforcement learning methods (e.g., DPO, GRPO) to train models for multi-turn medical question answering.
 
 ## Key Projects  
-- **Thai Nested NER Corpus** (Published in ACL 2022)
+- **Thai Nested NER Corpus** (Published in ACL2022, Finding)
 - **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition** (Published in IEEE Access)
 - **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Accepted in TALLIP)
 - **Bilingual Finance NER Dataset**: Cross-lingual dataset for Thai/English (Ongoing)
