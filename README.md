@@ -19,7 +19,7 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 📧 weerayut.b_s20@vistec.ac.th  
 
 **Datasets**
-- [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner)
+- [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner), [Preprocessing](https://github.com/WeerayutBu/cmdf-dataset)
 
 **RAG system**
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
