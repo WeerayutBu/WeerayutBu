@@ -28,7 +28,7 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 
 ## Agentic and ​RAG system
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
-- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing)
+- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
 
 ## Others:
 - [Common commands](https://github.com/WeerayutBu/Common-commands)
