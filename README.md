@@ -25,7 +25,8 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - [MultiLexNorm++](https://huggingface.co/datasets/weerayut/multilexnorm2026-full-pub), [Preprocessing](https://github.com/WeerayutBu/MultiLexNorm2.git)
 - [Thai-NNER](#), [Preprocessing](https://github.com/WeerayutBu/Preprocessing-Thai-NNER.git)
 - [ThaiLLM-Information-Query](https://huggingface.co/datasets/weerayut/iq-rag-lastturn), [Preprocessing](https://github.com/WeerayutBu/ChatTemplateRAG)
-## ​RAG system
+
+## Agentic and ​RAG system
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
 - [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing)
 
