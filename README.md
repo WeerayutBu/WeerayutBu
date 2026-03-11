@@ -27,6 +27,7 @@ Currently, I am focused on developing and evaluating an LLM-based retrieval-augm
 - [ThaiLLM-Information-Query](https://huggingface.co/datasets/weerayut/iq-rag-lastturn), [Preprocessing](https://github.com/WeerayutBu/ChatTemplateRAG)
 ## ​RAG system
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
+- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing)
 
 ## Others:
 - [Common commands](https://github.com/WeerayutBu/Common-commands)
