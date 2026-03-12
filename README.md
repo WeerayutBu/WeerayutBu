@@ -4,7 +4,7 @@ I’m a Ph.D. student in the Natural Language Processing and Representation Lear
 
 PhD Thesis: Resource-Constrained Named Entity Recognition — Contributed a Thai-language dataset for fine-grained nested NER and a bilingual financial NER dataset for the stock market; analyzed the generalization of encoder-based and LLM-based NER models to unseen entity types and new domains; and addressed multilingual text normalization challenges in informal language.
 
-Currently, I am focused on developing and evaluating an LLM-based retrieval-augmented generation (RAG) system for the medical domain, using supervised fine-tuning (SFT) and reinforcement learning methods (e.g., DPO, GRPO) to train models for multi-turn medical question answering.
+Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for the medical domain, including RAG pipeline design, evaluation, and post-training optimization of LLMs as part of the [ThaiLLM](https://huggingface.co/ThaiLLM) project.
 
 ## Key Projects  
 - **Thai Nested NER Corpus** (Published in ACL2022, Finding)
