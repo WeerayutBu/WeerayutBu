@@ -29,6 +29,7 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 ## Agentic and ​RAG system
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
 - [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
+- [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
 
 ## Others:
 - [Common commands](https://github.com/WeerayutBu/Common-commands)
