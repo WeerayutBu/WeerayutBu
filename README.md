@@ -32,7 +32,7 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
 
 ## Others:
-- [Common commands](https://github.com/WeerayutBu/install)
+- [Setup](https://github.com/WeerayutBu/install)
 - [Git](https://github.com/WeerayutBu/Git)
 - [Docker](https://github.com/WeerayutBu/Docker)
 - [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
