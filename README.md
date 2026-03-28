@@ -13,10 +13,7 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - **Bilingual Finance NER Dataset**: Cross-lingual dataset for Thai/English (Ongoing)
 
 ## Contact  
-🌐 [Website](https://weerayutbu.github.io/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/weerayutbu/)  
-📚 [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ)  
-📧 weerayut.b_s20@vistec.ac.th  
+[Website](https://weerayutbu.github.io/), [LinkedIn](https://www.linkedin.com/in/weerayutbu/), [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ), weerayut.b_s20@vistec.ac.th  
 
 ---
 
