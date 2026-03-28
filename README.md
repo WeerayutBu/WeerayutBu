@@ -31,9 +31,9 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
 - [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
 
+## Analysis
+[structural-probe](https://github.com/WeerayutBu/structural-probe)
+
 ## Others:
-- [Setup](https://github.com/WeerayutBu/install)
-- [Git](https://github.com/WeerayutBu/Git)
-- [Docker](https://github.com/WeerayutBu/Docker)
-- [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
+[Setup](https://github.com/WeerayutBu/install), [Git](https://github.com/WeerayutBu/Git), [Docker](https://github.com/WeerayutBu/Docker), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
 
