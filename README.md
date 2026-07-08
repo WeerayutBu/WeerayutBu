@@ -6,7 +6,7 @@ PhD Thesis: Resource-Constrained Named Entity Recognition — Contributed a Thai
 
 Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for the medical domain, including RAG pipeline design, evaluation, and post-training optimization of LLMs as part of the [ThaiLLM](https://huggingface.co/ThaiLLM) project.
 
-## Key Projects  
+## Key Research and Projects  
 - **Thai Nested NER Corpus** (Published in ACL2022, Finding)
 - **LLM-Augmented Prototype Representation for Few-shot Named-Entity Recognition** (Published in IEEE Access)
 - **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Accepted in TALLIP)
