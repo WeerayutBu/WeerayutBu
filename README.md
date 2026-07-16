@@ -20,10 +20,13 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [Terraform](https://github.com/WeerayutBu/demo-terraform.git)
 - [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
 
-## Contact  
-[Website](https://weerayutbu.github.io/), [LinkedIn](https://www.linkedin.com/in/weerayutbu/), [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ), weerayut.b_s20@vistec.ac.th  
+## Mini researches
+- [structural-probe](https://github.com/WeerayutBu/structural-probe)
 
----
+## Agentic and ​RAG system
+- [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
+- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
+- [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
 
 ## Datasets
 - [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner), [Preprocessing](https://github.com/WeerayutBu/cmdf-dataset)
@@ -31,14 +34,9 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [Thai-NNER](#), [Preprocessing](https://github.com/WeerayutBu/Preprocessing-Thai-NNER.git)
 - [ThaiLLM-Information-Query](https://huggingface.co/datasets/weerayut/iq-rag-lastturn), [Preprocessing](https://github.com/WeerayutBu/ChatTemplateRAG)
 
-## Agentic and ​RAG system
-- [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
-- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
-- [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
-
-## Analysis
-[structural-probe](https://github.com/WeerayutBu/structural-probe)
-
 ## Others:
 [Setup](https://github.com/WeerayutBu/install), [Git](https://github.com/WeerayutBu/Git), [Docker](https://github.com/WeerayutBu/Docker), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
 
+---
+## Contact  
+[Website](https://weerayutbu.github.io/), [LinkedIn](https://www.linkedin.com/in/weerayutbu/), [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ), weerayut.b_s20@vistec.ac.th  
