@@ -16,6 +16,8 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [learning-llm-from-scratch](https://github.com/WeerayutBu/learning-llm-from-scratch)
 
 ## Basic Infrastructure
+- [Git](https://github.com/WeerayutBu/Git)
+- [Docker](https://github.com/WeerayutBu/Docker)
 - [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows)
 - [Terraform](https://github.com/WeerayutBu/demo-terraform.git)
 - [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
@@ -35,7 +37,7 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [ThaiLLM-Information-Query](https://huggingface.co/datasets/weerayut/iq-rag-lastturn), [Preprocessing](https://github.com/WeerayutBu/ChatTemplateRAG)
 
 ## Others:
-[Setup](https://github.com/WeerayutBu/install), [Git](https://github.com/WeerayutBu/Git), [Docker](https://github.com/WeerayutBu/Docker), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
+[Setup](https://github.com/WeerayutBu/install), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
 
 ---
 ## Contact  
