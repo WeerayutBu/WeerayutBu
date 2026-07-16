@@ -13,7 +13,7 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - **Bilingual Finance NER Dataset**: Cross-lingual dataset for Thai/English (Ongoing)
 
 ## Learning
-- [llm-components]([https://github.com/WeerayutBu/learning-llm-from-scratch](https://github.com/WeerayutBu/learning-llm-components/settings))
+- [llm-components](https://github.com/WeerayutBu/learning-llm-components)
 
 ## Basic Infrastructure
 - [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows), [Git](https://github.com/WeerayutBu/Git)
