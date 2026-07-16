@@ -12,6 +12,14 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - **MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages** (Accepted in TALLIP)
 - **Bilingual Finance NER Dataset**: Cross-lingual dataset for Thai/English (Ongoing)
 
+## Learning
+- [learning-llm-from-scratch](https://github.com/WeerayutBu/learning-llm-from-scratch)
+
+## Basic Infrastructure
+- [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows)
+- [Terraform](https://github.com/WeerayutBu/demo-terraform.git)
+- [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
+
 ## Contact  
 [Website](https://weerayutbu.github.io/), [LinkedIn](https://www.linkedin.com/in/weerayutbu/), [Google Scholar](https://scholar.google.com/citations?user=GjdGYJIAAAAJ), weerayut.b_s20@vistec.ac.th  
 
@@ -32,5 +40,5 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 [structural-probe](https://github.com/WeerayutBu/structural-probe)
 
 ## Others:
-[Setup](https://github.com/WeerayutBu/install), [Git](https://github.com/WeerayutBu/Git), [Docker](https://github.com/WeerayutBu/Docker), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git), [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows), [Terraform](https://github.com/WeerayutBu/demo-terraform.git), [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
+[Setup](https://github.com/WeerayutBu/install), [Git](https://github.com/WeerayutBu/Git), [Docker](https://github.com/WeerayutBu/Docker), [Codabench-MultiLexNorm2026](https://github.com/WeerayutBu/Codabench-MultiLexnorm2026.git)
 
