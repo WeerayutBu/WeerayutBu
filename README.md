@@ -23,12 +23,12 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
 
 ## Mini researches
-- [structural-probe](https://github.com/WeerayutBu/structural-probe)
+- [Structural Probe](https://github.com/WeerayutBu/structural-probe)
 
 ## Agentic and ​RAG system
+- [Tool-use](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
+- [Claude](https://github.com/WeerayutBu/claude/tree/main)
 - [ChatTemplateRAG](https://github.com/WeerayutBu/ChatTemplateRAG)
-- [Demo-LLM use external tools](https://colab.research.google.com/drive/1IKCFtCF40m7H_OFKWqpGD5eOJsQbG4mB?usp=sharing), [OOP-version](https://colab.research.google.com/drive/11U0xW-aZPtyOv71OabUp4I38ydpZteM8?usp=sharing)
-- [Demo-claude](https://github.com/WeerayutBu/claude/tree/main)
 
 ## Datasets
 - [Thai-English-Financial-NER](https://huggingface.co/datasets/weerayut/thai-english-financial-ner), [Preprocessing](https://github.com/WeerayutBu/cmdf-dataset)
