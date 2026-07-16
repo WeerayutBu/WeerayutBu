@@ -16,11 +16,10 @@ Currently working on LLM-based Retrieval-Augmented Generation (RAG) systems for 
 - [learning-llm-from-scratch](https://github.com/WeerayutBu/learning-llm-from-scratch)
 
 ## Basic Infrastructure
-- [Git](https://github.com/WeerayutBu/Git)
-- [Docker](https://github.com/WeerayutBu/Docker)
-- [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows)
+- [API CI/CD Workflows](https://github.com/WeerayutBu/api-cicd-workflows), [Git](https://github.com/WeerayutBu/Git)
 - [Terraform](https://github.com/WeerayutBu/demo-terraform.git)
 - [Cloudflare Tunnel](https://github.com/WeerayutBu/cloudflare_tunnel/tree/master)
+- [Docker](https://github.com/WeerayutBu/Docker)
 
 ## Mini researches
 - [Structural Probe](https://github.com/WeerayutBu/structural-probe)
